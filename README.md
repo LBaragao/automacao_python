@@ -1,36 +1,25 @@
-# Automação de Processos com Python
+# Python Automation
 
-Projeto desenvolvido durante a **Jornada Python da Hashtag Treinamentos** com o objetivo de automatizar tarefas repetitivas realizadas manualmente em sistemas.
+This project demonstrates a simple automation created with Python to automate repetitive tasks and improve efficiency.
 
-## 📌 Descrição
+⭐ Project developed for learning purposes.
 
-Este projeto automatiza o processo de cadastro de produtos em um sistema utilizando Python.  
-A automação lê uma base de dados contendo informações dos produtos e realiza automaticamente o preenchimento das informações no sistema.
-
-Esse tipo de solução pode ser utilizado para reduzir tarefas operacionais repetitivas e aumentar a produtividade.
-
-## ⚙️ Tecnologias utilizadas
-
+## Technologies
 - Python
-- Pandas
-- PyAutoGUI
-- Time
 
-## 🚀 Funcionalidades
+## Project Overview
 
-- Leitura de dados a partir de uma base estruturada
-- Automação de interações com o sistema
-- Cadastro automatizado de múltiplos produtos
-- Execução rápida de tarefas que seriam feitas manualmente
+The goal of this project is to demonstrate how Python can be used to automate repetitive processes. Automations like this can help reduce manual work and increase productivity in everyday workflows.
 
-## 📚 Aprendizados
+## How to Run
 
-Durante este projeto foram praticados conceitos importantes como:
+```bash
+git clone https://github.com/LBaragao/automacao_python.git
+cd automacao_python
+python automacao.py
+```
 
-- Automação de tarefas com Python
-- Manipulação de dados com Pandas
-- Controle de fluxo e execução de scripts automatizados
-
-## 👨‍💻 Autor
-
-Lucas Winkler Baragão  
+## Future Improvements
+- Add logging to monitor the automation execution
+- Improve error handling
+- Allow scheduling for automatic execution
